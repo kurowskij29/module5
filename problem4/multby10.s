@@ -1,8 +1,8 @@
 #
-# Program name: negate.s
+# Program name: multby10.s
 # Author: Jack Kurowski
 # Date:9/17/2023
-# Purpose: This program converts a user input number to its negative
+# Purpose: This program uses bit shifts to multiply a number by 10
 #
 .text
 .global main
